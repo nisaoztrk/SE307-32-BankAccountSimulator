@@ -1,21 +1,38 @@
 # SE307-32-BankAccountSimulator
 
-## Members
-**Name:** Nisanur Öztürk 
-**Student Number:** 230201043
-**Github Name:** nisaoztrk
+**Course:** SE307 Programming with Python · Fall 2026–27
+**Topic code:** SE307-32 · **Working as:** Individual
 
-## What the Project Does
-Bank Account Simulator is a Python application that simulates basic banking operations, such as checking account balance, depositing money, and withdrawing money. It helps users understand how a simple banking system works while demonstrating fundamental Python programming concepts.i
+## Member 
+| Name | Student no. | GitHub username |
+|---|---|---|
+| Nisanur Öztürk | 230201043 | @nisaoztrk |
 
+## What the project does
+The project must allow users to check their account balance, deposit money, withdraw money, and view their transaction history. It should also prevent users from withdrawing more money than their available balance.
 ## How to install and run
--
-## Data Sources
--
+
+
+## Example output
+
+
+## Data
+
+
 ## Folder structure
--
+
+
+
 ## Who did what
--
+
+
+
 ## External code, libraries and AI tools
--
-## Link
+
+
+
+## Reports and video
+
+- Interim report (Week 10): [`reports/interim_report.pdf`](reports/interim_report.pdf)
+- Final report: [`reports/final_report.pdf`](reports/final_report.pdf)
+- Presentation video: <link — added at the final; every member appears>
