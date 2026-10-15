@@ -35,4 +35,4 @@ The project must allow users to check their account balance, deposit money, with
 
 - Interim report (Week 10): [`reports/interim_report.pdf`](reports/interim_report.pdf)
 - Final report: [`reports/final_report.pdf`](reports/final_report.pdf)
-- Presentation video: <link — added at the final; every member appears>
+- Presentation video: 
